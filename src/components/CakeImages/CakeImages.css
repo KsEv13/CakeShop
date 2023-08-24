@@ -1,0 +1,23 @@
+.cake-images-container {
+    margin-top: 20px;
+  }
+  
+  .image-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .image-list label {
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .image-list img {
+    max-width: 150px; 
+    height: auto;
+  }
+  
+
+  
